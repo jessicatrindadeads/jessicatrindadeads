@@ -1,59 +1,74 @@
-# Olá, eu sou a Jessica Trindade 👋
+# Olá, eu sou a Jéssica Trindade 👋
 
-### Desenvolvedora de Software | React • JavaScript • C#/.NET
+### Desenvolvedora de Software | React • JavaScript • APIs REST • Docker
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira em desenvolvimento de software, com experiência prática na criação de aplicações web utilizando **React, JavaScript, HTML5 e CSS/SCSS**.
+Desenvolvo aplicações web com foco em interfaces responsivas, organização de código e boa experiência de uso. Tenho experiência prática com **React, JavaScript, HTML5, CSS/SCSS, React Router e Vite**, além de projetos de API e infraestrutura com **Python, FastAPI, Docker e AWS**.
 
-Atualmente estou aprofundando meus conhecimentos em **desenvolvimento Back-end com C#/.NET, APIs REST, bancos de dados, testes e Cloud**, com foco em construir aplicações completas, bem estruturadas e alinhadas às práticas utilizadas no mercado.
+Atualmente, amplio meus conhecimentos em **C#/.NET, bancos de dados, testes automatizados e Cloud**, buscando oportunidades como desenvolvedora **Front-end ou Full Stack Júnior**.
 
 ---
 
 ## 🛠️ Tecnologias
 
 **Front-end**  
-React • JavaScript • HTML5 • CSS3/SCSS • Vite
+React • JavaScript • HTML5 • CSS3/SCSS • React Router • Vite
 
-**Back-end — em evolução**  
-C# • .NET / ASP.NET Core • APIs REST • Node.js • Express
+**Back-end**  
+Python • FastAPI • APIs REST • Node.js • Express • C#/.NET
 
-**Banco de Dados**  
-SQL • MySQL • SQL Server
+**Banco de dados**  
+SQL • MySQL • SQL Server • SQLite
 
 **Ferramentas e Cloud**  
-Git • GitHub • Postman • Docker • AWS
+Git • GitHub Actions • Postman • Docker • Vercel • AWS
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### 🤝 [Elo Solidário](https://github.com/jessicatrindadeads/elo-solidario)
-Plataforma web desenvolvida para conectar pessoas que desejam ajudar com instituições e comunidades que precisam de doações.
+### 💼 SISPAR
 
-**Tecnologias:** React • JavaScript • SCSS Modules • React Router • Vite
+Interface corporativa para solicitação e acompanhamento de reembolsos. Demonstra formulários controlados, validação, cálculos automáticos, listas dinâmicas, componentização e navegação com React Router.
 
-> Projeto em desenvolvimento, com evolução planejada para integração com API, autenticação e persistência de dados.
+**Tecnologias:** React • JavaScript • Sass • React Router • Vite  
+[Código](https://github.com/jessicatrindadeads/SISPAR) • [Aplicação](https://sispar-jet.vercel.app)
 
-### 💼 [SISPAR](https://github.com/jessicatrindadeads/SISPAR)
-Interface para gerenciamento de solicitações e reembolsos, desenvolvida com foco em componentização e organização de interfaces em React.
+### 🤝 Conectar
 
-**Tecnologias:** React • React Router • Sass • Vite
+Plataforma social com múltiplas páginas para divulgar projetos, oportunidades de voluntariado, eventos e doações. Possui layout responsivo, menu mobile acessível, página 404 e integração contínua.
 
-### ☁️ [AWS EC2](https://github.com/jessicatrindadeads/desafio-aws-ec2)
-Projeto desenvolvido para consolidar conhecimentos em infraestrutura e computação em nuvem utilizando serviços AWS.
+**Tecnologias:** React • JavaScript • Sass Modules • React Router • GitHub Actions  
+[Código](https://github.com/jessicatrindadeads/projeto-social-conectar) • [Aplicação](https://projeto-social-conectar.vercel.app)
 
-**Serviços:** Amazon EC2 • EBS • S3 • Security Groups
+### 🐳 API de Gestão Escolar
+
+API REST para gerenciamento de alunos, cursos e matrículas, estruturada para execução em contêiner e persistência de dados.
+
+**Tecnologias:** Python • FastAPI • SQLAlchemy • SQLite • Docker  
+[Código](https://github.com/jessicatrindadeads/docker)
+
+### 🩺 Médicos & Dentistas Voluntários
+
+Aplicação institucional responsiva para apresentar uma iniciativa fictícia de atendimento voluntário e demonstrar fluxos de navegação e formulário no Front-end.
+
+**Tecnologias:** React • JavaScript • Sass Modules • React Router • Vite  
+[Código](https://github.com/jessicatrindadeads/projeto-medicos-voluntarios) • [Aplicação](https://projeto-medicos-voluntarios.vercel.app)
+
+### ☁️ Infraestrutura AWS EC2
+
+Documentação de uma arquitetura em nuvem utilizando instância EC2, armazenamento e regras de acesso, com atenção a segurança e organização da infraestrutura.
+
+**Serviços:** Amazon EC2 • EBS • S3 • Security Groups  
+[Documentação](https://github.com/jessicatrindadeads/desafio-aws-ec2)
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Formação e desenvolvimento
 
-C# e Programação Orientada a Objetos • ASP.NET Core Web API • Entity Framework Core • SQL • Arquitetura de APIs REST • Testes automatizados • Docker • Azure e AWS
+**Análise e Desenvolvimento de Sistemas — UniSantos**  
+Conclusão prevista para dezembro de 2026.
 
----
-
-## 🎯 Foco atual
-
-Estou fortalecendo meu portfólio com projetos **Back-end e Full Stack**, priorizando APIs em **C#/.NET**, bancos de dados relacionais, autenticação, testes, containers e Cloud.
+Estudos atuais: C#/.NET • ASP.NET Core Web API • Entity Framework Core • SQL • Testes automatizados • Docker • Cloud
 
 ---
 
